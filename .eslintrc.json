@@ -1,0 +1,26 @@
+{
+  "overrides": [
+    {
+      "files": [ "app/**/*.js" ],
+      "extends": [
+        "standard",
+        "airbnb-base",
+        "prettier"
+      ],
+      "rules": {
+        "indent": [
+          "error",
+          "tab"
+        ],
+        "semi": [
+          2,
+          "always"
+        ],
+        "quotes": [
+          "error",
+          "backtick"
+        ]
+      }
+    }
+  ]
+}
