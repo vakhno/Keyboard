@@ -1,7 +1,0 @@
-.DS_store
-package-lock.json
-.vscode
-node_modules
-.idea
-dist
-/*.exe.stackdump
